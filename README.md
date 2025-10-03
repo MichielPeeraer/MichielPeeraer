@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" >
+</p>
 
 <!--
 **MichielPeeraer/MichielPeeraer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
