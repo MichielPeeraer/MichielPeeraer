@@ -18,7 +18,7 @@
 
 I am a Fullstack Developer who lives at the intersection of logic and design. Whether it's architecting a robust backend or polishing a CSS animation, I thrive on building tools that are as functional as they are beautiful.
 
-* ⚛️ **Web:** Specialist in React, Next.js, and modern JavaScript ecosystems.
+* ⚛️ **Web:** Specialist in React, Next.js, and modern JavaScript / TypeScript ecosystems.
 * 🐍 **Logic:** Building scalable backend services and experiments in Python.
 * 🎨 **Philosophy:** UX-first design with a focus on "less is more."
 * 🧠 **Current Focus:** Leveling up on [Boot.dev](https://www.boot.dev) and mastering distributed systems.
@@ -55,7 +55,7 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 ### 🧩 Current Focus
 
 - 🏗️ **Personal Portfolio:** Iterating on my digital home.
-- 🧪 **Fullstack Labs:** Building modular PERN applications for scalability.
+- 🧪 **Fullstack Labs:** Building modular and scalable MERN & PERN applications.
 - ⚡ **Backend Ops:** Deep diving into API optimization and Docker workflows.
 
 ---
