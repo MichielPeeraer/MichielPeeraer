@@ -32,16 +32,12 @@ I am a Fullstack Developer focused on creating seamless user experiences and rob
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,python,git,docker&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michielpee3&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
 ---
 
 ### 🌟 Featured Project
 **[My Personal Portfolio](https://www.michiel-peeraer.vercel.app)** *A deep dive into my journey as a developer, featuring custom animations, a clean UI, and a showcase of my fullstack applications.*
 
-- 🎨 **Stack:** Next.js, Tailwind CSS, Framer Motion
+- 🎨 **Stack:** Next.js, Tailwind CSS, (Framer) Motion
 - 🚀 **Deployment:** Vercel
 
 ---
@@ -68,11 +64,14 @@ I am a Fullstack Developer focused on creating seamless user experiences and rob
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
+  <a href="https://www.linkedin.com/in/michiel-herman-peeraer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:peeraer.michiel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.michiel-peeraer.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
