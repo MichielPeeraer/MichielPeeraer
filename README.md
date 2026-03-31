@@ -38,14 +38,14 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>🧠 Boot.dev Mastery</strong><br />
+      <strong>🧠 Boot.dev Progress</strong><br />
       <br />
-      <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" width="250px" />
+      <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" width="280px" />
     </td>
     <td align="center" width="50%">
       <strong>🦉 Duolingo Streak</strong><br />
       <br />
-      <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" width="250px" />
+      <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" width="280px" />
     </td>
   </tr>
 </table>
