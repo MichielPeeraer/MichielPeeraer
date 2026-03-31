@@ -1,18 +1,52 @@
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" >
+<h1 align="center">Hi 👋 I'm Michiel</h1>
+<p align="center">
+  Fullstack Developer • Building clean, interactive web experiences
 </p>
 
-<!--
-**MichielPeeraer/MichielPeeraer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Fullstack developer focused on modern web tech  
+- 🎨 I like clean UI, smooth animations, and good UX  
+- 🌍 Based in Belgium  
+- 🧠 Always learning & improving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,mongodb,tailwind,git" />
+</p>
+
+---
+
+## 📊 Progress & Stats
+
+### 🧠 Boot.dev
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" />
+</p>
+
+### 🦉 Duolingo
+<p align="center">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" />
+</p>
+
+---
+
+## 🧩 What I'm Working On
+- 🚀 Personal portfolio  
+- ⚛️ Next.js + TypeScript projects  
+- 🔌 APIs & backend improvements  
+
+---
+
+## 📫 Connect
+- 💼 LinkedIn: (your link)
+- 🌐 Portfolio: (your site)
+
+---
+
+<p align="center">
+  <sub>“Good code is invisible. Great code feels effortless.”</sub>
+</p>
