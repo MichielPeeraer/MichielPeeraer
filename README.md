@@ -62,8 +62,8 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [Michiel Herman Peeraer](https://www.linkedin.com/in/michiel-herman-peeraer) — *Let's network!*
-- 🌐 **Portfolio:** [michiel-peeraer.vercel.app](https://www.michiel-peeraer.vercel.app) — *Check out my latest work.*
+- 💼 **LinkedIn:** [Michiel Peeraer](https://linkedin.com/in/michiel-herman-peeraer) — *Let's network!*
+- 🌐 **Portfolio:** [michiel-peeraer.vercel.app](https://michiel-peeraer.vercel.app) — *Check out my latest work.*
 - 📧 **Email:** [michiel.peeraer@example.com](mailto:peeraer.michiel@gmail.com) — *Always open for interesting opportunities.*
 
 ---
