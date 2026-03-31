@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Located-Belgium-yellow?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Located-Belgium-red?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-MERN%20%26%20PERN-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Learning-Python%20%26%20Backend-green?style=flat-square" />
 </p>
