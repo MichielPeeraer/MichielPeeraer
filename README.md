@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,mongodb,postgresql,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,mongodb,postgresql,tailwind,git" />
 </p>
 
 ---
@@ -43,8 +43,12 @@
 
 ## 📫 Connect
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/michiel-herman-peeraer">LinkedIn</a> •
-  🌐 <a href="https://www.michiel-peeraer.vercel.app">Portfolio</a>
+  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.michiel-peeraer.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
