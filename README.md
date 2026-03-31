@@ -62,19 +62,27 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/michiel-herman-peeraer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.michiel-peeraer.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:peeraer.michiel@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" />
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/michiel-herman-peeraer" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://www.michiel-peeraer.vercel.app" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" alt="Portfolio" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="mailto:peeraer.michiel@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
