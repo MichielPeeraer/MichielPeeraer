@@ -45,7 +45,7 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
     <td align="center" width="50%">
       <strong>🦉 Duolingo Streak</strong><br />
       <br />
-      <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" width="280px" />
+      <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme=dark" alt="Duolingo Stats" width="280px" />
     </td>
   </tr>
 </table>
@@ -64,10 +64,15 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michiel-herman-peeraer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.michiel-peeraer.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:peeraer.michiel@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" />
   </a>
 </p>
 
