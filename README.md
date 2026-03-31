@@ -63,10 +63,10 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
+  <a href="https://www.linkedin.com/in/michiel-herman-peeraer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.michiel-peeraer.vercel.app">
+  <a href="https://www.michiel-peeraer.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
