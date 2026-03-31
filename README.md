@@ -1,72 +1,76 @@
-<h1 align="center">Hi 👋 I'm Michiel</h1>
 <p align="center">
-  Fullstack Developer • Building clean, interactive web experiences
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Michiel%20👋&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <strong>Fullstack Developer | Crafting clean, interactive web experiences</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Located-Belgium-yellow?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-MERN%20%26%20PERN-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Python%20%26%20Backend-green?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Fullstack developer working across different stacks  
-- ⚛️ Experience with MERN & PERN architectures  
-- 🐍 Also building projects in Python  
-- 🎨 I like clean UI, smooth animations, and good UX  
-- 🌍 Based in Belgium  
-- 🧠 Always learning & improving  
+### 🚀 About Me
+
+I am a Fullstack Developer who lives at the intersection of logic and design. Whether it's architecting a robust backend or polishing a CSS animation, I thrive on building tools that are as functional as they are beautiful.
+
+* ⚛️ **Web:** Specialist in React, Next.js, and modern JavaScript ecosystems.
+* 🐍 **Logic:** Building scalable backend services and experiments in Python.
+* 🎨 **Philosophy:** UX-first design with a focus on "less is more."
+* 🧠 **Current Focus:** Leveling up on [Boot.dev](https://www.boot.dev) and mastering distributed systems.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,python,tailwind,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,python,git,docker&theme=dark" />
 </p>
 
 ---
 
-## 📊 Progress & Stats
+### 📊 Progress & Stats
 
-### 🧠 Boot.dev
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" />
-</p>
-
-### 🦉 Duolingo
-<p align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" />
-</p>
-
----
-
-## 🧩 What I'm Working On
-- 🚀 Personal portfolio  
-- ⚛️ MERN & PERN fullstack projects  
-- 🐍 Python applications & experiments  
-- 🔌 APIs & backend improvements  
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🧠 Boot.dev Mastery</strong><br />
+      <br />
+      <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" width="250px" />
+    </td>
+    <td align="center" width="50%">
+      <strong>🦉 Duolingo Streak</strong><br />
+      <br />
+      <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" width="250px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Connect
-<p align="center">
-  <strong>Find me here 👇</strong><br/><br/>
+### 🧩 Current Focus
 
+- 🏗️ **Personal Portfolio:** Iterating on my digital home.
+- 🧪 **Fullstack Labs:** Building modular PERN applications for scalability.
+- ⚡ **Backend Ops:** Deep diving into API optimization and Docker workflows.
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
-    <span> LinkedIn</span>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.michiel-peeraer.vercel.app">
-    <img src="https://skillicons.dev/icons?i=vercel" height="20" />
-    <span> Portfolio</span>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <sub>Always open to interesting opportunities and collaborations</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
 </p>
