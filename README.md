@@ -62,22 +62,22 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 ### 📫 Let's Connect
 
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/michiel-herman-peeraer" target="_blank">
+    <td align="center" style="border: none;">
+      <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
       </a>
     </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.michiel-peeraer.vercel.app" target="_blank">
+    <td width="30" style="border: none;"></td>
+    <td align="center" style="border: none;">
+      <a href="https://www.michiel-peeraer.vercel.app">
         <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" alt="Portfolio" />
       </a>
     </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="mailto:peeraer.michiel@gmail.com">
+    <td width="30" style="border: none;"></td>
+    <td align="center" style="border: none;">
+      <a href="mailto:jouw-email@voorbeeld.be">
         <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" />
       </a>
     </td>
