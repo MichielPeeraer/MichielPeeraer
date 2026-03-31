@@ -29,7 +29,7 @@
 
 ### 🦉 Duolingo
 <p align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme=dark" alt="Duolingo Stats" />
+  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme=github-dark" alt="Duolingo Stats" />
 </p>
 
 ---
@@ -43,12 +43,8 @@
 
 ## 📫 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.michiel-peeraer.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">LinkedIn</a> •
+  <a href="https://www.michiel-peeraer.vercel.app">Portfolio</a>
 </p>
 
 ---
