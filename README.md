@@ -24,12 +24,12 @@
 
 ### 🧠 Boot.dev
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" />
+  <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" alt="Boot.dev Stats" />
 </p>
 
 ### 🦉 Duolingo
 <p align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme=github-dark" alt="Duolingo Stats" />
+  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme=dark" alt="Duolingo Stats" />
 </p>
 
 ---
@@ -43,8 +43,12 @@
 
 ## 📫 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">LinkedIn</a> •
-  <a href="https://www.michiel-peeraer.vercel.app">Portfolio</a>
+  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.michiel-peeraer.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  </a>
 </p>
 
 ---
