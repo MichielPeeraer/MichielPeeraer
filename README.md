@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Michiel</h1>
 <p align="center">
-  Fullstack Developer • Building clean, interactive web experiences
+  Fullstack TypeScript Developer • Building clean, interactive web experiences
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,mongodb,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,mongodb,postgresql,tailwind,git" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ### 🦉 Duolingo
 <p align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" />
+  <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme=dark" alt="Duolingo Stats" />
 </p>
 
 ---
@@ -42,8 +42,10 @@
 ---
 
 ## 📫 Connect
-- 💼 LinkedIn: (your link)
-- 🌐 Portfolio: (your site)
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/michiel-herman-peeraer">LinkedIn</a> •
+  🌐 <a href="https://www.michiel-peeraer.vercel.app">Portfolio</a>
+</p>
 
 ---
 
