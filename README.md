@@ -31,10 +31,6 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,python,git,docker&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michielpee3&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
 ---
 
 ### 📊 Progress & Stats
@@ -44,12 +40,12 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
     <td align="center" width="50%">
       <strong>Mastering Backend</strong><br />
       <br />
-      <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" width="250px" />
+      <img src="https://api.boot.dev/v1/users/public/196f7e84-b6b7-4b3a-b28c-a0d5f98f60d2/thumbnail" width="280px" />
     </td>
     <td align="center" width="50%">
       <strong>Duolingo Journey</strong><br />
       <br />
-      <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" width="250px" />
+      <img src="https://duolingo-stats-card.vercel.app/api?username=michielpee3&theme-dark" alt="Duolingo Stats" width="280px" />
     </td>
   </tr>
 </table>
@@ -58,7 +54,7 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 ### 🧩 Current Projects
 
-- 🌐 **[Personal Portfolio](https://www.michiel-peeraer.vercel.app):** My digital home built with Next.js and Framer Motion. (Recently Launched! 🚀)
+- 🌐 **[Personal Portfolio](https://www.michiel-peeraer.vercel.app):** My digital home built with Next.js and (Framer) Motion. (Recently Launched! 🚀)
 - 🧪 **Fullstack Labs:** Building modular PERN applications for scalability.
 - ⚡ **Backend Ops:** Deep diving into API optimization and Docker workflows.
 
@@ -66,9 +62,11 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/michiel-herman-peeraer"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" /></a><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="40" height="1" /><a href="https://www.michiel-peeraer.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" alt="Portfolio" /></a><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="40" height="1" /><a href="mailto:jouw-email@hier.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" /></a>
-</p>
+- 💼 **LinkedIn:** [Michiel Herman Peeraer](https://www.linkedin.com/in/michiel-herman-peeraer) — *Let's network!*
+- 🌐 **Portfolio:** [michiel-peeraer.vercel.app](https://www.michiel-peeraer.vercel.app) — *Check out my latest work.*
+- 📧 **Email:** [michiel.peeraer@example.com](mailto:peeraer.michiel@gmail.com) — *Always open for interesting opportunities.*
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
