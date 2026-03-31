@@ -62,27 +62,19 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 ### 📫 Let's Connect
 
-<table align="center">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
-      </a>
-    </td>
-    <td width="30" style="border: none;"></td>
-    <td align="center" style="border: none;">
-      <a href="https://www.michiel-peeraer.vercel.app">
-        <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" alt="Portfolio" />
-      </a>
-    </td>
-    <td width="30" style="border: none;"></td>
-    <td align="center" style="border: none;">
-      <a href="mailto:jouw-email@voorbeeld.be">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
+  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="30" height="1" />
+  <a href="https://www.michiel-peeraer.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" alt="Portfolio" />
+  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="30" height="1" />
+  <a href="mailto:peeraer.michiel@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
