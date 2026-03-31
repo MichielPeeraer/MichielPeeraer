@@ -55,7 +55,7 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 ### 🧩 Current Projects
 
 - 🌐 **[Personal Portfolio](https://michiel-peeraer.vercel.app):** My digital home built with Next.js and (Framer) Motion. (Recently Launched! 🚀)
-- 🧪 **Fullstack Labs:** Building modular PERN applications for scalability.
+- 🧪 **Fullstack Labs:** Building modular and scalable MERN / PERN applications.
 - ⚡ **Backend Ops:** Deep diving into API optimization and Docker workflows.
 
 ---
