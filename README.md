@@ -43,9 +43,11 @@
 
 ## 📫 Connect
 <p align="center">
+  <strong>Click an icon to visit 👇</strong><br/><br/>
   <a href="https://www.linkedin.com/in/michiel-herman-peeraer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.michiel-peeraer.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" height="40" />
   </a>
