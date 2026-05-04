@@ -21,7 +21,7 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 * ⚛️ **Web:** Specialist in React, Next.js, and modern JavaScript / TypeScript ecosystems.
 * 🐍 **Logic:** Building scalable backend services and experiments in Python.
 * 🎨 **Philosophy:** UX-first design with a focus on "less is more."
-* 🤖 **Workflow:** Using AI as an accelerator for development, while critically validating outputs and maintaining a strong understanding of the underlying systems.
+* 🤖 **Workflow:** Using AI as an accelerator for development, while critically validating outputs and maintaining a strong understanding.
 
 ---
 
