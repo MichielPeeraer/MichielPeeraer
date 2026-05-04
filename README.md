@@ -21,7 +21,7 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 * ⚛️ **Web:** Specialist in React, Next.js, and modern JavaScript / TypeScript ecosystems.
 * 🐍 **Logic:** Building scalable backend services and experiments in Python.
 * 🎨 **Philosophy:** UX-first design with a focus on "less is more."
-* 🧠 **Current Focus:** Leveling up on [Boot.dev](https://www.boot.dev) and mastering distributed systems.
+* 🤖 **Workflow:** Using AI as an accelerator for development, while critically validating outputs and maintaining a strong understanding of the underlying systems.
 
 ---
 
@@ -54,9 +54,9 @@ I am a Fullstack Developer who lives at the intersection of logic and design. Wh
 
 ### 🧩 Current Projects
 
+- 🧠 **Current Focus:** Leveling up on [Boot.dev](https://www.boot.dev/u/michielpeeraer) and mastering distributed systems.
 - 🌐 **[Personal Portfolio](https://michiel-peeraer.vercel.app):** My digital home built with Next.js and (Framer) Motion. (Recently Launched! 🚀)
-- 🧪 **Fullstack Labs:** Building modular and scalable MERN / PERN applications.
-- ⚡ **Backend Ops:** Deep diving into API optimization and Docker workflows.
+- 🧪 **Fullstack Projects:** Building modular and scalable MERN / PERN applications.
 
 ---
 
